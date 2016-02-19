@@ -1,6 +1,8 @@
 html {
   font-family: Dosis, sans-serif;
   text-align: center;
+  box-sizing: border-box;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -11,8 +13,13 @@ h1 {
   background-color: f0f1eb;
   color: 4f2910;
   font-weight: bold;
+
 }
 
 .nav {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
   background-color: 9A816d
 }
