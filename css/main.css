@@ -1,0 +1,11 @@
+html {
+  font-family: Dosis, sans-serif;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+.beetles dt {
+  background-color: 9A816d
+}
